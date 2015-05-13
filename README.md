@@ -1,5 +1,5 @@
 #Grub2 Theme Vimix
-###### AUTHOR:[vinceliuice](http://gnome-look.org/content/show.php/Grub-themes-vimix?content=169954)
+###### AUTHOR: [vinceliuice](http://gnome-look.org/content/show.php/Grub-themes-vimix?content=169954)
 
 #Installation
 ###Arch Linux
