@@ -1,18 +1,18 @@
 #Grub2 Theme Vimix
-###### AUTHOR:[浣衣尘](http://tieba.baidu.com/p/3757812932)
+###### AUTHOR:[vinceliuice](http://gnome-look.org/content/show.php/Grub-themes-vimix?content=169954)
 
 #Installation
 ###Arch Linux
 #####install packages form AUR :
-```bash
+```shell
 $ yaourt grub2-theme-vimix
 ```
 #####Edit /etc/default/grub :
-```bash
+```shell
 GRUB_THEME="/boot/grub/themes/Vimix/theme.txt"
 ```
 #####Update grub :
-```bash
+```shell
 $ grub-mkconfig -o /boot/grub/grub.cfg
 ```
 
