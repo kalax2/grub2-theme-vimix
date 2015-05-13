@@ -1,9 +1,7 @@
 #Grub2 Theme Vimix
-***
 ###### AUTHOR:[浣衣尘](tieba.baidu.com/p/3757812932)
 
 #Installation
-***
 ###Arch Linux
 #####install packages form AUR :
 ```bash
@@ -20,5 +18,4 @@ GRUB_THEME="/boot/grub/themes/Vimix/theme.txt"
 
 
 #Screenshot
-***
 ![screenshot](http://i.imgur.com/6nrc5XD.jpg)
