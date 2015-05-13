@@ -5,7 +5,7 @@
 ###Arch Linux
 #####install packages form AUR :
 ```bash
-# yaourt grub2-theme-vimix
+$ yaourt grub2-theme-vimix
 ```
 #####Edit /etc/default/grub :
 ```bash
@@ -13,7 +13,7 @@ GRUB_THEME="/boot/grub/themes/Vimix/theme.txt"
 ```
 #####Update grub :
 ```bash
-# grub-mkconfig -o /boot/grub/grub.cfg
+$ grub-mkconfig -o /boot/grub/grub.cfg
 ```
 
 
