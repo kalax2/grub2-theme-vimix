@@ -1,5 +1,5 @@
 #Grub2 Theme Vimix
-###### AUTHOR:[浣衣尘](tieba.baidu.com/p/3757812932)
+###### AUTHOR:[浣衣尘](http://tieba.baidu.com/p/3757812932)
 
 #Installation
 ###Arch Linux
