@@ -5,7 +5,7 @@
 ###Arch Linux
 #####install packages form AUR :
 ```shell
-$ yaourt grub2-theme-vimix
+$ yaourt -S grub2-theme-vimix-git
 ```
 #####Edit /etc/default/grub :
 ```shell
