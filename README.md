@@ -15,7 +15,26 @@ GRUB_THEME="/boot/grub/themes/Vimix/theme.txt"
 ```shell
 $ grub-mkconfig -o /boot/grub/grub.cfg
 ```
-
+### Fedora 28/29
+##### install packages:
+```shell
+$ cd Downloads/
+$ git clone https://github.com/Se7endAY/grub2-theme-vimix.git && cd grub2-theme-vimix
+$ sudo cp -r Vimix/ /boot/grub2/themes/ 
+$ sudo nano /etc/default/grub
+```
+#### Copy this at the bottom 
+```shell
+$ GRUB_THEME="/boot/grub2/themes/Vimix/theme.txt"
+```
+#### Place # marker in front 
+```shell
+$ GRUB_TERMINAL_OUTPUT="console"
+```
+##### Update grub :
+```shell
+$ sudo grub-mkconfig -o /etc/grub2.cfg
+```
 
 # Screenshot
 ![screenshot](http://i.imgur.com/6nrc5XD.jpg)
