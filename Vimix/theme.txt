@@ -3,7 +3,7 @@
 
 # Global Property
 title-text: ""
-desktop-image: "background.png"
+desktop-image: "background.jpeg"
 desktop-color: "#000000"
 terminal-font: "Unifont Regular 16"
 terminal-box: "terminal_box_*.png"
@@ -15,9 +15,9 @@ terminal-border: "0"
 
 # Show the boot menu
 + boot_menu {
-  left = 15%
-  top = 29%
-  width = 70%
+  left = 30%
+  top = 30%
+  width = 45%
   height = 60%
   item_font = "Unifont Regular 16"
   item_color = "#cccccc"
@@ -35,6 +35,6 @@ terminal-border: "0"
   align = "center"
   id = "__timeout__"
   text = "Booting in %d seconds"
-  color = "#a34545"
+  color = "#cccccc"
   font = "Unifont Regular 16"
 }
