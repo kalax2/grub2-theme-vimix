@@ -33,7 +33,7 @@ $ GRUB_TERMINAL_OUTPUT="console"
 ```
 ##### Update grub :
 ```shell
-$ sudo grub-mkconfig -o /etc/grub2.cfg
+$ sudo grub2-mkconfig -o /etc/grub2.cfg
 ```
 
 # Screenshot
