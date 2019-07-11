@@ -1,4 +1,4 @@
-# GRUB2 gfxmenu Linux Vimix theme
+# GRUB2 gfxmenu Linux EndeavourOS theme
 # Designed for any resolution
 
 # Global Property
