@@ -16,14 +16,14 @@ terminal-border: "0"
 # Show the boot menu
 + boot_menu {
   left = 10%
-  top = 30%
-  width = 70%
-  height = 60%
+  top = 10%
+  width = 80%
+  height = 80%
   item_font = "Unifont Regular 16"
   item_color = "#cccccc"
   selected_item_color = "#ffffff"
   item_height = 24
-  item_spacing = 12
+  item_spacing = 16
   selected_item_pixmap_style = "select_*.png"
 }
 
