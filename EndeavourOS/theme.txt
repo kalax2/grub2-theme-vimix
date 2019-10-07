@@ -2,7 +2,7 @@
 # Designed for any resolution
 
 # Global Property
-title-text: ""
+title-text: "EndeavourOS"
 desktop-image: "background.png"
 desktop-color: "#000000"
 terminal-font: "Unifont Regular 16"
@@ -16,8 +16,8 @@ terminal-border: "0"
 # Show the boot menu
 + boot_menu {
   left = 10%
-  top = 10%
-  width = 80%
+  top = 30%
+  width = 70%
   height = 60%
   item_font = "Unifont Regular 16"
   item_color = "#cccccc"
