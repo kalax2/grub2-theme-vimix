@@ -15,7 +15,7 @@ GRUB_THEME="/boot/grub/themes/Vimix/theme.txt"
 ```shell
 $ grub-mkconfig -o /boot/grub/grub.cfg
 ```
-### Fedora 28/29
+### Fedora 28/29/32
 ##### install packages:
 ```shell
 $ cd Downloads/
@@ -31,9 +31,14 @@ $ GRUB_THEME="/boot/grub2/themes/Vimix/theme.txt"
 ```shell
 $ GRUB_TERMINAL_OUTPUT="console"
 ```
-##### Update grub :
+##### Update grub:
 ```shell
 $ sudo grub2-mkconfig -o /etc/grub2.cfg
+```
+
+##### Update grub for UEFI boot:
+```shell
+$ sudo grub2-mkconfig -o /etc/grub2-efi.cfg
 ```
 
 # Screenshot
