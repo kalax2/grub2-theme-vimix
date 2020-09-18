@@ -2,7 +2,7 @@
 # Designed for any resolution
 
 # Global Property
-title-text: "EndeavourOS"
+title-text: ""
 desktop-image: "background.png"
 desktop-color: "#000000"
 terminal-font: "Unifont Regular 16"
